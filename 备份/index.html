@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    body{
+      text-align: center;
+      font-size: 30px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  这是首页
+  <div id="main"></div>
+  <script src='js/jquery.js'></script>
+  <script>
+    $(function () {
+      var url = 'https://www.baidu.com/his?wd=&from=pc_web&rf=3&hisdata=%5B%7B%22time%22%3A1533798138%2C%22kw%22%3A%22github%E5%9C%A8%E7%BA%BF%E6%9C%8D%E5%8A%A1%E5%99%A8%22%7D%2C%7B%22time%22%3A1533798511%2C%22kw%22%3A%22github%22%7D%5D&json=1&p=3&sid=&req=2&bs=dd373%E6%B8%B8%E6%88%8F%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0&sc=eb&csor=0&pwd=dd373%E6%B8%B8%E6%88%8F%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0&cb=jQuery1102016092406281253036_1533800421984&_=1533800421987';
+      $.ajax({
+        type: 'get',
+        url: url,
+        dataType: 'jsonp',
+        headers: {
+          'content-type': 'application/json;charset=utf-8'
+        },
+        success: function (res) {
+          $("#main").html(JSON.stringify(res));
+        }
+      });
+    });
+  </script>
+</body>
+</html>
