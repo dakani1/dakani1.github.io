@@ -15,8 +15,8 @@ router.get('/article/:id', (ctx, next) => {
   }
 })
 
-router.get('*', (ctx, next) => {
-  ctx.body = '<h1>404 Not Found</h1>'
-})
+// router.get('*', (ctx, next) => {
+//   ctx.body = '<h1>404 Not Found</h1>'
+// })
 
 module.exports = router
