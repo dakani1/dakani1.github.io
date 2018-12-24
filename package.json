@@ -15,7 +15,8 @@
     "koa-bodyparser": "^4.2.1",
     "koa-cookie": "^1.0.0",
     "koa-router": "^7.4.0",
-    "koa-static": "^5.0.0"
+    "koa-static": "^5.0.0",
+    "request": "^2.88.0"
   },
   "dependencies": {
     "art-template": "^4.13.2",

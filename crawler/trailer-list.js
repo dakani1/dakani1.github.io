@@ -1,4 +1,5 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
 (async () => {
   const browser = await puppeteer.launch({
     headless: false,
@@ -15,9 +16,7 @@ const puppeteer = require('puppeteer');
   });
 
   const moreClk = async(page) => {
-    console.log(1111111111111)
     try {
-      const arriveBottom = false;
       await page.waitFor('.more');
       await page.click('.more');
       await page.waitFor(5000);
@@ -30,7 +29,31 @@ const puppeteer = require('puppeteer');
 
       }
     } catch (e) {
-      console.log(33333333333)
+      console.log(8888888)
+      const data = await page.evaluate(() => {
+        const $ = window.$;
+        const items = $('.list .item')
+        const arr = []
+        if (items && items.length > 0) {
+          $.each(items, (key, item) => {
+            const json = {
+              dbId:  $(item). find(".cover-wp").data('id'),
+              title: $(item).find('p').html().split('<strong>')[0].trim() || '',
+              img: $(item).find('img').attr('src').replace('/s_ratio_poster', '/l_ratio_poster') || '',
+              score: $(item).find('p strong').text()
+            };
+            arr.push(json);
+          })
+        }
+        return arr
+      })
+      fs.writeFile('../fs/file.js', JSON.stringify(data),'utf-8',function(error){
+        if(error){
+            console.log(error);
+            return false;
+        }
+        console.log('写入成功');
+    })
     }
   }
   await moreClk(page); 

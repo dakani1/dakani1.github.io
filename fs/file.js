@@ -1,0 +1,1526 @@
+[{
+    "dbId": 27615233,
+    "title": "你好，之华",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538345957.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 26425063,
+    "title": "无双",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535096871.jpg",
+    "score": "8.1"
+}, {
+    "dbId": 30286112,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                乔纳斯",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2538157284.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 27092648,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                蒙上你的眼",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537908150.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 30355903,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                卖身",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2543482894.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 27092785,
+    "title": "李茶的姑妈",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533384240.jpg",
+    "score": "4.7"
+}, {
+    "dbId": 4864908,
+    "title": "影",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530513100.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 27140071,
+    "title": "找到你",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2534471408.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 26985127,
+    "title": "一出好戏",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529571873.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 26366496,
+    "title": "邪不压正",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526297221.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 26147417,
+    "title": "神奇动物：格林德沃之罪",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2539424621.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 26752088,
+    "title": "我不是药神",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2519070834.jpg",
+    "score": "9.0"
+}, {
+    "dbId": 27605698,
+    "title": "西虹市首富",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529206747.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 26636712,
+    "title": "蚁人2：黄蜂女现身",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529389608.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 26336252,
+    "title": "碟中谍6：全面瓦解",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529365085.jpg",
+    "score": "8.2"
+}, {
+    "dbId": 1950330,
+    "title": "罗马",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537733205.jpg",
+    "score": "8.2"
+}, {
+    "dbId": 27172891,
+    "title": "大象席地而坐",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511811355.jpg",
+    "score": "8.1"
+}, {
+    "dbId": 27073234,
+    "title": "憨豆特工3",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2538352472.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 27072988,
+    "title": "一个小忙",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2527824211.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 26290410,
+    "title": "昨日青空",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533173724.jpg",
+    "score": "6.1"
+}, {
+    "dbId": 27149818,
+    "title": "胖子行动队",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526215398.jpg",
+    "score": "4.1"
+}, {
+    "dbId": 26369884,
+    "title": "此房是我造",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2543305779.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 27102569,
+    "title": "悲伤逆流成河",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529701498.jpg",
+    "score": "5.8"
+}, {
+    "dbId": 26952704,
+    "title": "巴斯特·斯克鲁格斯的歌谣",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539127687.jpg",
+    "score": "8.4"
+}, {
+    "dbId": 24773958,
+    "title": "复仇者联盟3：无限战争",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2517753454.jpg",
+    "score": "8.1"
+}, {
+    "dbId": 27110363,
+    "title": "名侦探柯南：零的执行人",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537694239.jpg",
+    "score": "5.8"
+}, {
+    "dbId": 26972258,
+    "title": "江湖儿女",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533283770.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26925317,
+    "title": "动物世界",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525528688.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 26842702,
+    "title": "燃烧",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520095279.jpg",
+    "score": "7.9"
+}, {
+    "dbId": 27039069,
+    "title": "宝贝儿",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2531326284.jpg",
+    "score": "5.2"
+}, {
+    "dbId": 3026559,
+    "title": "登月第一人",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2532776305.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26725678,
+    "title": "解除好友：暗网",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2525020357.jpg",
+    "score": "7.9"
+}, {
+    "dbId": 26654498,
+    "title": "爱你，西蒙",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523592367.jpg",
+    "score": "8.3"
+}, {
+    "dbId": 26683421,
+    "title": "特工",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2528281606.jpg",
+    "score": "8.4"
+}, {
+    "dbId": 4920389,
+    "title": "头号玩家",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516578307.jpg",
+    "score": "8.7"
+}, {
+    "dbId": 26588308,
+    "title": "死侍2",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521499639.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 30122633,
+    "title": "快把我哥带走",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2531080870.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 27072795,
+    "title": "幸福的拉扎罗",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2521583093.jpg",
+    "score": "8.7"
+}, {
+    "dbId": 26426194,
+    "title": "巨齿鲨",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530572643.jpg",
+    "score": "5.8"
+}, {
+    "dbId": 26786642,
+    "title": "摘金奇缘",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2540295055.jpg",
+    "score": "6.2"
+}, {
+    "dbId": 25849049,
+    "title": "超人总动员2",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522880251.jpg",
+    "score": "7.9"
+}, {
+    "dbId": 6874741,
+    "title": "无问西东",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2507572275.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 27062637,
+    "title": "利兹与青鸟",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515806508.jpg",
+    "score": "8.7"
+}, {
+    "dbId": 26654269,
+    "title": "瞒天过海：美人计",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2508259902.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 4058933,
+    "title": "一个明星的诞生",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2524354600.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 26630714,
+    "title": "精灵旅社3：疯狂假期",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530591543.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 25882296,
+    "title": "狄仁杰之四大天王",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526405034.jpg",
+    "score": "6.1"
+}, {
+    "dbId": 26992553,
+    "title": "皇家酒店谋杀案",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530922420.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 26861685,
+    "title": "红海行动",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2514119443.jpg",
+    "score": "8.3"
+}, {
+    "dbId": 26804147,
+    "title": "摩天营救",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2527484082.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 26996640,
+    "title": "反贪风暴3",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2531887203.jpg",
+    "score": "5.6"
+}, {
+    "dbId": 26698897,
+    "title": "唐人街探案2",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511355624.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 26384741,
+    "title": "湮灭",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516914607.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 26640371,
+    "title": "犬之岛",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518856022.jpg",
+    "score": "8.3"
+}, {
+    "dbId": 27018285,
+    "title": "现在去见你",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514384737.jpg",
+    "score": "8.2"
+}, {
+    "dbId": 25917789,
+    "title": "铁血战士",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537399580.jpg",
+    "score": "5.0"
+}, {
+    "dbId": 26825664,
+    "title": "修女",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2528357976.jpg",
+    "score": "5.9"
+}, {
+    "dbId": 30140571,
+    "title": "嗝嗝老师",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535365481.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 26997663,
+    "title": "寂静之地",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518852413.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 27621727,
+    "title": "遗传厄运",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518865763.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 27003543,
+    "title": "与神同行2：因与缘",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2527205786.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 27133303,
+    "title": "超时空同居",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520331478.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 30181130,
+    "title": "阿拉姜色",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535257594.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26945085,
+    "title": "昆池岩",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2513360824.jpg",
+    "score": "6.1"
+}, {
+    "dbId": 27180356,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                完美的他人",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2536570825.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 26416062,
+    "title": "侏罗纪世界2",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522069454.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 26999424,
+    "title": "我的间谍前男友",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533822396.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 26786317,
+    "title": "银湖之底",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520302442.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 27093707,
+    "title": "升级",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2531034314.jpg",
+    "score": "8.1"
+}, {
+    "dbId": 6538807,
+    "title": "冰海陷落",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2534071656.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 26721646,
+    "title": "柯莱特",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2539643023.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 26359235,
+    "title": "克里斯托弗·罗宾",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2523016274.jpg",
+    "score": "8.0"
+}, {
+    "dbId": 27147739,
+    "title": "有熊谷守一在的地方",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515102554.jpg",
+    "score": "8.4"
+}, {
+    "dbId": 26894602,
+    "title": "冷战",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526989708.jpg",
+    "score": "7.8"
+}, {
+    "dbId": 4017146,
+    "title": "月光光心慌慌",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519765769.jpg",
+    "score": "6.2"
+}, {
+    "dbId": 26662193,
+    "title": "前任3：再见前任",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2508926717.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 30146756,
+    "title": "风语咒",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530872223.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 27107140,
+    "title": "我想吃掉你的胰脏",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2542584155.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 27615398,
+    "title": "罪人",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2541555031.jpg",
+    "score": "7.7"
+}, {
+    "dbId": 26937563,
+    "title": "惊涛飓浪",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2541197052.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 26809592,
+    "title": "魅影缝匠",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2506487968.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 26810318,
+    "title": "阿尔法：狼伴归途",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2530871439.jpg",
+    "score": "6.4"
+}, {
+    "dbId": 26944582,
+    "title": "雪怪大冒险",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535550507.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 6390825,
+    "title": "黑豹",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2512123434.jpg",
+    "score": "6.4"
+}, {
+    "dbId": 30201003,
+    "title": "寄宿学校",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533613106.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 26878883,
+    "title": "野梨树",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2541801353.jpg",
+    "score": "8.0"
+}, {
+    "dbId": 10759740,
+    "title": "滴答屋",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537306831.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 27069427,
+    "title": "黄金兄弟",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535191502.jpg",
+    "score": "5.0"
+}, {
+    "dbId": 26575103,
+    "title": "捉妖记2",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2509643816.jpg",
+    "score": "5.0"
+}, {
+    "dbId": 26979199,
+    "title": "喜欢，轻吻，快跑",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527725378.jpg",
+    "score": "7.8"
+}, {
+    "dbId": 26793385,
+    "title": "飓风奇劫",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537693782.jpg",
+    "score": "5.9"
+}, {
+    "dbId": 30183666,
+    "title": "老爸102岁",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2540024317.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 30242164,
+    "title": "海吉拉",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524187708.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 26600786,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                希斯特斯兄弟",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2523194235.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 30283526,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                塔巴德",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532668828.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 26683723,
+    "title": "后来的我们",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519994468.jpg",
+    "score": "5.9"
+}, {
+    "dbId": 20435622,
+    "title": "环太平洋：雷霆再起",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2512933684.jpg",
+    "score": "5.4"
+}, {
+    "dbId": 27133913,
+    "title": "黑色党徒",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522401855.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 27025631,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                咏鹅",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537217125.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 27108740,
+    "title": "家族之苦3",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515706733.jpg",
+    "score": "7.9"
+}, {
+    "dbId": 30181789,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                愤怒的黄牛",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538593487.jpg",
+    "score": "5.9"
+}, {
+    "dbId": 27201353,
+    "title": "大师兄",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528842218.jpg",
+    "score": "5.1"
+}, {
+    "dbId": 27191173,
+    "title": "恋如雨止",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511831665.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 27608785,
+    "title": "沉默的教室",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535799024.jpg",
+    "score": "8.4"
+}, {
+    "dbId": 26992114,
+    "title": "孤狼之血",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2514406992.jpg",
+    "score": "7.8"
+}, {
+    "dbId": 26384292,
+    "title": "无敌原始人",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537032871.jpg",
+    "score": "6.2"
+}, {
+    "dbId": 26649604,
+    "title": "比得兔",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515434674.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 27064658,
+    "title": "致所有我曾爱过的男孩",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2529112058.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 27171119,
+    "title": "蜡笔小新：爆盛！功夫男孩〜拉面大乱〜",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536960627.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 27040737,
+    "title": "祈祷落幕时",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2503849067.jpg",
+    "score": "8.1"
+}, {
+    "dbId": 27038235,
+    "title": "薄荷",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2523586097.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 26411377,
+    "title": "你的婚礼",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529385973.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 26793852,
+    "title": "信笺故事",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511250973.jpg",
+    "score": "8.2"
+}, {
+    "dbId": 26910820,
+    "title": "灵魂摆渡·黄泉",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2512204463.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 26877492,
+    "title": "小森林",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2512152196.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 26715845,
+    "title": "黑暗迷宫",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537871355.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 27054613,
+    "title": "每天回家都会看到老婆在装死",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2517449456.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 26975011,
+    "title": "猖獗",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2534697355.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 26603666,
+    "title": "妈妈咪鸭",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515018270.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 27145025,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                精灵宝可梦：大家的故事",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2514799820.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 30317630,
+    "title": "坏种",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537244778.jpg",
+    "score": "6.4"
+}, {
+    "dbId": 25829175,
+    "title": "西游记女儿国",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511375626.jpg",
+    "score": "4.4"
+}, {
+    "dbId": 27050259,
+    "title": "妈妈咪呀2",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2528272481.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 27596249,
+    "title": "重金属囧途",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2508608826.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26356631,
+    "title": "伸冤人2",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529742142.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 27127793,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                一周不死，全额退款",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2524662263.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 26791452,
+    "title": "塔利",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2513046246.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26654146,
+    "title": "解忧杂货店",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2503544593.jpg",
+    "score": "5.0"
+}, {
+    "dbId": 26323032,
+    "title": "五十度飞",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2504300654.jpg",
+    "score": "5.4"
+}, {
+    "dbId": 26974993,
+    "title": "不留痕迹",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2527013868.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26627736,
+    "title": "边境杀手2：边境战士",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518403013.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 26784898,
+    "title": "花牌情缘：结",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507984247.jpg",
+    "score": "8.0"
+}, {
+    "dbId": 26430636,
+    "title": "狂暴巨兽",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2516079193.jpg",
+    "score": "6.4"
+}, {
+    "dbId": 27113810,
+    "title": "暗数杀人",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533909043.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 26774033,
+    "title": "幕后玩家",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520543845.jpg",
+    "score": "5.7"
+}, {
+    "dbId": 30156898,
+    "title": "肆式青春",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526429256.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 27040853,
+    "title": "协商",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530394864.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 26607969,
+    "title": "未择之路",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533833822.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 3445906,
+    "title": "古墓丽影：源起之战",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512717509.jpg",
+    "score": "6.0"
+}, {
+    "dbId": 26730542,
+    "title": "有5个姐姐的我就注定要单身了啊！！",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539777749.jpg",
+    "score": "4.4"
+}, {
+    "dbId": 27139732,
+    "title": "你给的仇恨",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2528989179.jpg",
+    "score": "7.9"
+}, {
+    "dbId": 26602900,
+    "title": "魔女",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2524056711.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 26949241,
+    "title": "游戏之夜",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2514235105.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 6874365,
+    "title": "丽兹",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2530651169.jpg",
+    "score": "6.1"
+}, {
+    "dbId": 26917393,
+    "title": "错误教育",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2528152105.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 27668245,
+    "title": "女继承者",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2513658372.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 26649627,
+    "title": "超能泰坦",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2534696059.jpg",
+    "score": "4.6"
+}, {
+    "dbId": 30143859,
+    "title": "双套结杀手",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2540170285.jpg",
+    "score": "6.2"
+}, {
+    "dbId": 26004132,
+    "title": "移动迷宫3：死亡解药",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2508618114.jpg",
+    "score": "5.3"
+}, {
+    "dbId": 26437223,
+    "title": "22英里",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520254064.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 27102505,
+    "title": "去年冬天与你分手",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511323383.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 27184199,
+    "title": "挪威7·22爆炸枪击案",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2536598700.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 25704492,
+    "title": "红雀",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2519628553.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 27138613,
+    "title": "除蚤武士",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518532274.jpg",
+    "score": "6.0"
+}, {
+    "dbId": 27615439,
+    "title": "我们，动物",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2541162760.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 27593912,
+    "title": "盲点",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2519789102.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 27615564,
+    "title": "的士速递5",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529136453.jpg",
+    "score": "5.4"
+}, {
+    "dbId": 26966580,
+    "title": "妖铃铃",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2506825662.jpg",
+    "score": "4.2"
+}, {
+    "dbId": 27029495,
+    "title": "法外之王",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537410854.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 26779967,
+    "title": "鸡皮疙瘩2：闹鬼万圣节",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2527698114.jpg",
+    "score": "5.3"
+}, {
+    "dbId": 26995719,
+    "title": "金钱世界",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513253129.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 30162520,
+    "title": "盛夏",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524209517.jpg",
+    "score": "7.8"
+}, {
+    "dbId": 27098363,
+    "title": "自杀小队：严厉惩罚",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2519931276.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 25900947,
+    "title": "游侠索罗：星球大战外传",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2521436880.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 27055378,
+    "title": "白小姐",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2534698026.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 11524958,
+    "title": "快乐王子",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2510857223.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 26628329,
+    "title": "南极之恋",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518028103.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 26936272,
+    "title": "犬舍 真人版",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2513564342.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 27071217,
+    "title": "抱歉打扰",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522624830.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 27109381,
+    "title": "八年级",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2516523510.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 27017288,
+    "title": "小公女",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2513982852.jpg",
+    "score": "7.9"
+}, {
+    "dbId": 30159390,
+    "title": "我的冠军男友",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515187596.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 27069070,
+    "title": "哆啦A梦：大雄的金银岛",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2523364763.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 26985996,
+    "title": "私人生活",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2536784711.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 27191829,
+    "title": "初吻50次",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2513056531.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 27017673,
+    "title": "犬舍惊魂",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520156309.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 27199577,
+    "title": "银魂2",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2527126044.jpg",
+    "score": "7.7"
+}, {
+    "dbId": 30299345,
+    "title": "康斯坦丁：恶魔之城 电影版",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2536561659.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 27012731,
+    "title": "噩梦娃娃屋",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2514997577.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 27621192,
+    "title": "文集",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2510047589.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26683287,
+    "title": "刺心",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2532142571.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 26350706,
+    "title": "第十二个人",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512022748.jpg",
+    "score": "7.9"
+}, {
+    "dbId": 30143861,
+    "title": "我的冤家是条狗",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537054509.jpg",
+    "score": "6.4"
+}, {
+    "dbId": 27061510,
+    "title": "娼年",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515826373.jpg",
+    "score": "5.6"
+}, {
+    "dbId": 26908280,
+    "title": "美国动物",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511158398.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 27074301,
+    "title": "德鲁大叔",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520298166.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 30228425,
+    "title": "禁入直播",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2540144191.jpg",
+    "score": "5.8"
+}, {
+    "dbId": 3212397,
+    "title": "根西岛文学与土豆皮馅饼俱乐部",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530405011.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 30272778,
+    "title": "我儿子去了外星球",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2539955692.jpg",
+    "score": "5.0"
+}, {
+    "dbId": 27021609,
+    "title": "超大号美人",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531291468.jpg",
+    "score": "6.4"
+}, {
+    "dbId": 27114417,
+    "title": "祖宗十九代",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511436594.jpg",
+    "score": "4.3"
+}, {
+    "dbId": 26940401,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                暗杀国度",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526375581.jpg",
+    "score": "5.6"
+}, {
+    "dbId": 27066203,
+    "title": "曼蒂",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511683437.jpg",
+    "score": "5.4"
+}, {
+    "dbId": 4844731,
+    "title": "死神 真人版",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2524786233.jpg",
+    "score": "5.0"
+}, {
+    "dbId": 26830774,
+    "title": "影像之书",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521056867.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 26882230,
+    "title": "羊与钢的森林",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2517122370.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 26754734,
+    "title": "狼屋",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2534473847.jpg",
+    "score": "8.0"
+}, {
+    "dbId": 26797419,
+    "title": "二代妖精之今生有幸",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2507022339.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 26992383,
+    "title": "龙虾刑警",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2523437806.jpg",
+    "score": "4.9"
+}, {
+    "dbId": 7056414,
+    "title": "通勤营救",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2517770792.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 26999488,
+    "title": "拉普拉斯的魔女",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513749419.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 3078549,
+    "title": "虎胆追凶",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2532509221.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 27596834,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                四平青年之喋血曼谷",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2541813555.jpg",
+    "score": "4.5"
+}, {
+    "dbId": 30330688,
+    "title": "拯救圣诞记",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2536607303.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 30192287,
+    "title": "把哥哥退货可以吗",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2521316953.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 30195228,
+    "title": "男人要自爱",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522124933.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 27191405,
+    "title": "进击的巨人剧场版：觉醒的咆哮",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2531265461.jpg",
+    "score": "7.7"
+}, {
+    "dbId": 26794994,
+    "title": "潜伏4：锁命亡灵",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2498335046.jpg",
+    "score": "6.0"
+}, {
+    "dbId": 26967920,
+    "title": "遇见你真好",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516082047.jpg",
+    "score": "4.6"
+}, {
+    "dbId": 27098364,
+    "title": "超人之死",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526823875.jpg",
+    "score": "7.4"
+}, {
+    "dbId": 30170375,
+    "title": "真爱百分百",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537900372.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 26951654,
+    "title": "红楼梦",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537683057.jpg",
+    "score": "4.2"
+}, {
+    "dbId": 26727889,
+    "title": "不要碰我",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513527028.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 25864719,
+    "title": "嗜人之夜",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535452413.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 30283308,
+    "title": "阿浪的远方",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2531097433.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 26935499,
+    "title": "黑色1847",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529484752.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 27013111,
+    "title": "抓人游戏",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520435820.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 27196380,
+    "title": "花滑女王",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2517485270.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 30141329,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                于特岛7月22日",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530276926.jpg",
+    "score": "6.1"
+}, {
+    "dbId": 26999591,
+    "title": "牵牛花与加濑同学",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2450467970.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 3143727,
+    "title": "贼巢",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2509782231.jpg",
+    "score": "7.3"
+}, {
+    "dbId": 26908051,
+    "title": "使徒",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529568683.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 26219713,
+    "title": "克隆人",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2539946987.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 27195119,
+    "title": "李宗伟：败者为王",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530870325.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 30208004,
+    "title": "阿凡提之奇缘历险",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2534091010.jpg",
+    "score": "4.8"
+}, {
+    "dbId": 30172472,
+    "title": "好朋友",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2516560274.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 27059080,
+    "title": "幼儿园教师",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530565381.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26942853,
+    "title": "镜中人",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535338885.jpg",
+    "score": "5.8"
+}, {
+    "dbId": 27165968,
+    "title": "少年泰坦出击电影版",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513656628.jpg",
+    "score": "8.1"
+}, {
+    "dbId": 27019570,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                时间怪客",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2540708832.jpg",
+    "score": "6.1"
+}, {
+    "dbId": 26994321,
+    "title": "角头2：王者再起",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2510687913.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 27155457,
+    "title": "目击者",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524690987.jpg",
+    "score": "5.9"
+}, {
+    "dbId": 27160683,
+    "title": "忍者蝙蝠侠",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2506695706.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 25969461,
+    "title": "加尔维斯顿",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2535094487.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 27052274,
+    "title": "中二病也要谈恋爱！剧场版 -Take On Me-",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2509844695.jpg",
+    "score": "8.4"
+}, {
+    "dbId": 27043736,
+    "title": "三角草的春天",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2515218929.jpg",
+    "score": "5.8"
+}, {
+    "dbId": 25727544,
+    "title": "寻找罗麦",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518268771.jpg",
+    "score": "4.4"
+}, {
+    "dbId": 26962614,
+    "title": "货架之间",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2516147140.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 27091624,
+    "title": "邻里的人们",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537220350.jpg",
+    "score": "5.6"
+}, {
+    "dbId": 26905717,
+    "title": "人类清除计划4",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2524364774.jpg",
+    "score": "5.3"
+}, {
+    "dbId": 26682880,
+    "title": "过境",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512965888.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 27176717,
+    "title": "熊出没·变形记",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2506889386.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 3660130,
+    "title": "12勇士",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2502530749.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 30372746,
+    "title": "公主大对换",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2539336544.jpg",
+    "score": "5.8"
+}, {
+    "dbId": 26665435,
+    "title": "护航父母",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513652639.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 27202825,
+    "title": "最后一球",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526211692.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 26827040,
+    "title": "英雄本色2018",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2508615612.jpg",
+    "score": "4.6"
+}, {
+    "dbId": 26687238,
+    "title": "多甫拉托夫",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2512499216.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 27126264,
+    "title": "终点的婚礼",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526177736.jpg",
+    "score": "5.9"
+}, {
+    "dbId": 28461121,
+    "title": "妮娜",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2512596311.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 27097816,
+    "title": "罪途1之死亡列车",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2521612839.jpg",
+    "score": "6.9"
+}, {
+    "dbId": 3262196,
+    "title": "欢乐时光谋杀案",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522466095.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 26715965,
+    "title": "苦行僧的非凡旅程",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2516475337.jpg",
+    "score": "6.8"
+}, {
+    "dbId": 21328095,
+    "title": "科洛弗悖论",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2512711499.jpg",
+    "score": "5.9"
+}, {
+    "dbId": 26377050,
+    "title": "千次伤我心",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2536762001.jpg",
+    "score": "6.4"
+}, {
+    "dbId": 27168151,
+    "title": "上流社会",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529567560.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 27195080,
+    "title": "泄密者",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2524686290.jpg",
+    "score": "5.3"
+}, {
+    "dbId": 26743470,
+    "title": "李尔王",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533451535.jpg",
+    "score": "7.1"
+}, {
+    "dbId": 26924141,
+    "title": "低压槽：欲望之城",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520457270.jpg",
+    "score": "4.4"
+}, {
+    "dbId": 26691361,
+    "title": "21克拉",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518945837.jpg",
+    "score": "4.6"
+}, {
+    "dbId": 27069412,
+    "title": "虽说是未成年，但可不是小孩哟",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2517726751.jpg",
+    "score": "5.6"
+}, {
+    "dbId": 27039378,
+    "title": "今夜在浪漫剧场",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2504531338.jpg",
+    "score": "7.0"
+}, {
+    "dbId": 26949264,
+    "title": "深海越狱",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2521514516.jpg",
+    "score": "4.4"
+}, {
+    "dbId": 26979208,
+    "title": "文豪野犬 Dead Apple",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2504096291.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 26998315,
+    "title": "真心话大冒险",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2509632893.jpg",
+    "score": "6.0"
+}, {
+    "dbId": 26897430,
+    "title": "此刻只有你共我",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529662672.jpg",
+    "score": "5.7"
+}, {
+    "dbId": 27008562,
+    "title": "爱上谎言的女人",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2497881869.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 27008105,
+    "title": "最终行动",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2525918935.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 30263962,
+    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                黄飞鸿之怒海雄风",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2542865023.jpg",
+    "score": "3.7"
+}, {
+    "dbId": 2068290,
+    "title": "风的另一边",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532655297.jpg",
+    "score": "7.2"
+}, {
+    "dbId": 26954268,
+    "title": "道高一丈",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2530863118.jpg",
+    "score": "5.0"
+}, {
+    "dbId": 5327406,
+    "title": "小小陌生人",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526315774.jpg",
+    "score": "5.6"
+}, {
+    "dbId": 26980827,
+    "title": "那就是我的世界",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2508367896.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26934399,
+    "title": "毒战",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2518838998.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 26925532,
+    "title": "阿尔忒弥斯酒店",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520276515.jpg",
+    "score": "5.6"
+}, {
+    "dbId": 30306093,
+    "title": "恶魔的请柬",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2531863227.jpg",
+    "score": "5.7"
+}, {
+    "dbId": 30146843,
+    "title": "德九",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2514413785.jpg",
+    "score": "7.7"
+}, {
+    "dbId": 30142649,
+    "title": "大闹西游",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533745160.jpg",
+    "score": "5.4"
+}, {
+    "dbId": 30223596,
+    "title": "陈翔六点半之铁头无敌",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522275201.jpg",
+    "score": "6.2"
+}, {
+    "dbId": 27101860,
+    "title": "友罪",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515826615.jpg",
+    "score": "6.2"
+}, {
+    "dbId": 26969244,
+    "title": "亲吻亭",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2520915398.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 27121032,
+    "title": "她的故事",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522073139.jpg",
+    "score": "7.5"
+}, {
+    "dbId": 27038254,
+    "title": "读书会",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2521627342.jpg",
+    "score": "6.6"
+}, {
+    "dbId": 27621991,
+    "title": "白牙",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2522339208.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 26919051,
+    "title": "机器猛犬",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522332481.jpg",
+    "score": "4.4"
+}, {
+    "dbId": 26718803,
+    "title": "奇葩朵朵",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2517691297.jpg",
+    "score": "4.2"
+}, {
+    "dbId": 26288143,
+    "title": "黑暗心灵",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2525729485.jpg",
+    "score": "5.2"
+}, {
+    "dbId": 26782656,
+    "title": "栋笃特工",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2509642867.jpg",
+    "score": "5.3"
+}, {
+    "dbId": 26847920,
+    "title": "破梦游戏",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2539192381.jpg",
+    "score": "4.0"
+}, {
+    "dbId": 26968024,
+    "title": "我是你妈",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2520372116.jpg",
+    "score": "4.9"
+}, {
+    "dbId": 26979347,
+    "title": "一代巨星桑杰君",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2533267626.jpg",
+    "score": "7.6"
+}, {
+    "dbId": 30337147,
+    "title": "那年1987",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535396971.jpg",
+    "score": "6.5"
+}, {
+    "dbId": 26816372,
+    "title": "古剑奇谭之流月昭明",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535268700.jpg",
+    "score": "4.3"
+}, {
+    "dbId": 26722224,
+    "title": "匿名者",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519789189.jpg",
+    "score": "6.3"
+}, {
+    "dbId": 27172872,
+    "title": "呼吸",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515115906.jpg",
+    "score": "6.0"
+}, {
+    "dbId": 27055372,
+    "title": "物怪",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530305394.jpg",
+    "score": "5.3"
+}, {
+    "dbId": 26920182,
+    "title": "机动战士高达THE ORIGIN VI 赤色彗星诞生",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2518242401.jpg",
+    "score": "8.7"
+}, {
+    "dbId": 30159456,
+    "title": "再见十八班",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515316360.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 27603669,
+    "title": "为你写诗",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537681630.jpg",
+    "score": "3.8"
+}, {
+    "dbId": 26865406,
+    "title": "同族",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2528238364.jpg",
+    "score": "5.2"
+}, {
+    "dbId": 27107700,
+    "title": "飓风行动",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2528106676.jpg",
+    "score": "6.1"
+}, {
+    "dbId": 26646106,
+    "title": "白兰",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522864314.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 27055837,
+    "title": "大地震",
+    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522206776.jpg",
+    "score": "5.5"
+}, {
+    "dbId": 26279175,
+    "title": "赤裸朱丽叶",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2526577457.jpg",
+    "score": "6.7"
+}, {
+    "dbId": 26389835,
+    "title": "海鸥",
+    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532664197.jpg",
+    "score": "7.0"
+}]
