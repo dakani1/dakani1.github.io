@@ -17,11 +17,18 @@ const puppeteer = require('puppeteer');
   const moreClk = async(page) => {
     console.log(1111111111111)
     try {
-      console.log(2222222222)
+      const arriveBottom = false;
       await page.waitFor('.more');
       await page.click('.more');
       await page.waitFor(5000);
-      await moreClk(page);
+      if (!arriveBottom) {
+        // page.evaluate(() => {
+        //   const 
+        // });
+        await moreClk(page);
+      } else {
+
+      }
     } catch (e) {
       console.log(33333333333)
     }

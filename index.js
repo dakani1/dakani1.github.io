@@ -23,7 +23,6 @@ render(app, {
   debug: process.env.NODE_ENV !== 'production'
 });
 
-
 app.use(router.routes())
 const port = 3000
 app.listen(port, () =>{
