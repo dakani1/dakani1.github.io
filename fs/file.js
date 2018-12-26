@@ -1,4 +1,4 @@
-[{
+const arrList = [{
     "dbId": 27615233,
     "title": "你好，之华",
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538345957.jpg",
@@ -8,21 +8,6 @@
     "title": "无双",
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2535096871.jpg",
     "score": "8.1"
-}, {
-    "dbId": 30286112,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                乔纳斯",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2538157284.jpg",
-    "score": "7.4"
-}, {
-    "dbId": 27092648,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                蒙上你的眼",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537908150.jpg",
-    "score": "6.9"
-}, {
-    "dbId": 30355903,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                卖身",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2543482894.jpg",
-    "score": "6.5"
 }, {
     "dbId": 27092785,
     "title": "李茶的姑妈",
@@ -319,11 +304,6 @@
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2513360824.jpg",
     "score": "6.1"
 }, {
-    "dbId": 27180356,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                完美的他人",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2536570825.jpg",
-    "score": "7.3"
-}, {
     "dbId": 26416062,
     "title": "侏罗纪世界2",
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522069454.jpg",
@@ -464,16 +444,6 @@
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2524187708.jpg",
     "score": "7.4"
 }, {
-    "dbId": 26600786,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                希斯特斯兄弟",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2523194235.jpg",
-    "score": "7.6"
-}, {
-    "dbId": 30283526,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                塔巴德",
-    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532668828.jpg",
-    "score": "7.4"
-}, {
     "dbId": 26683723,
     "title": "后来的我们",
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2519994468.jpg",
@@ -489,20 +459,10 @@
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2522401855.jpg",
     "score": "7.0"
 }, {
-    "dbId": 27025631,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                咏鹅",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2537217125.jpg",
-    "score": "7.1"
-}, {
     "dbId": 27108740,
     "title": "家族之苦3",
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515706733.jpg",
     "score": "7.9"
-}, {
-    "dbId": 30181789,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                愤怒的黄牛",
-    "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2538593487.jpg",
-    "score": "5.9"
 }, {
     "dbId": 27201353,
     "title": "大师兄",
@@ -594,11 +554,6 @@
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2515018270.jpg",
     "score": "7.1"
 }, {
-    "dbId": 27145025,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                精灵宝可梦：大家的故事",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2514799820.jpg",
-    "score": "7.0"
-}, {
     "dbId": 30317630,
     "title": "坏种",
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2537244778.jpg",
@@ -623,11 +578,6 @@
     "title": "伸冤人2",
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2529742142.jpg",
     "score": "6.9"
-}, {
-    "dbId": 27127793,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                一周不死，全额退款",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2524662263.jpg",
-    "score": "6.3"
 }, {
     "dbId": 26791452,
     "title": "塔利",
@@ -954,11 +904,6 @@
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2511436594.jpg",
     "score": "4.3"
 }, {
-    "dbId": 26940401,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                暗杀国度",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2526375581.jpg",
-    "score": "5.6"
-}, {
     "dbId": 27066203,
     "title": "曼蒂",
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2511683437.jpg",
@@ -1008,11 +953,6 @@
     "title": "虎胆追凶",
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2532509221.jpg",
     "score": "6.5"
-}, {
-    "dbId": 27596834,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                四平青年之喋血曼谷",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2541813555.jpg",
-    "score": "4.5"
 }, {
     "dbId": 30330688,
     "title": "拯救圣诞记",
@@ -1089,11 +1029,6 @@
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2517485270.jpg",
     "score": "6.9"
 }, {
-    "dbId": 30141329,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                于特岛7月22日",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2530276926.jpg",
-    "score": "6.1"
-}, {
     "dbId": 26999591,
     "title": "牵牛花与加濑同学",
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2450467970.jpg",
@@ -1143,11 +1078,6 @@
     "title": "少年泰坦出击电影版",
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2513656628.jpg",
     "score": "8.1"
-}, {
-    "dbId": 27019570,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                时间怪客",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2540708832.jpg",
-    "score": "6.1"
 }, {
     "dbId": 26994321,
     "title": "角头2：王者再起",
@@ -1339,11 +1269,6 @@
     "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2525918935.jpg",
     "score": "6.3"
 }, {
-    "dbId": 30263962,
-    "title": "<span class=\"green\">\n                        <img src=\"https://img3.doubanio.com/f/movie/caa8f80abecee1fc6f9d31924cef8dd9a24c7227/pics/movie/ic_new.png\" width=\"16\" class=\"new\">\n                    </span>\n                \n\n                黄飞鸿之怒海雄风",
-    "img": "https://img3.doubanio.com/view/photo/l_ratio_poster/public/p2542865023.jpg",
-    "score": "3.7"
-}, {
     "dbId": 2068290,
     "title": "风的另一边",
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532655297.jpg",
@@ -1524,3 +1449,4 @@
     "img": "https://img1.doubanio.com/view/photo/l_ratio_poster/public/p2532664197.jpg",
     "score": "7.0"
 }]
+module.exports = arrList

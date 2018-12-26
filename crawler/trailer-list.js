@@ -20,14 +20,7 @@ const fs = require('fs');
       await page.waitFor('.more');
       await page.click('.more');
       await page.waitFor(5000);
-      if (!arriveBottom) {
-        // page.evaluate(() => {
-        //   const 
-        // });
-        await moreClk(page);
-      } else {
-
-      }
+      await moreClk(page);
     } catch (e) {
       console.log(8888888)
       const data = await page.evaluate(() => {
