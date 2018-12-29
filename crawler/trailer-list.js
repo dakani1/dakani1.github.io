@@ -46,7 +46,7 @@ const fs = require('fs');
             return false;
         }
         console.log('写入成功');
-    })
+      })
     }
   }
   await moreClk(page); 
