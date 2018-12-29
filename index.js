@@ -23,6 +23,12 @@ render(app, {
   extname: '.art',
   debug: process.env.NODE_ENV !== 'production'
 });
+app.use(async(ctx, next) => {
+  ctx.set('Content-Type', 'application/json; charset=utf-8;')
+  ctx.set('ETag', '123456');
+  ctx.set('Cache-Control', 'no-cache');
+  next()
+})
 
 const pool = mysql.createPool({
   connectionLimit : 10,
@@ -37,10 +43,10 @@ data.forEach((item, key) => {
   sqlStr += `(${item.dbId}, '${item.title}', '${item.img}', ${item.score})${key}`;
 })
 
-pool.query(sqlStr, function (error, results, fields) {
-  if (error) throw error;
-  console.log('The solution is: ', results);
-});
+// pool.query(sqlStr, function (error, results, fields) {
+//   if (error) throw error;
+//   console.log('The solution is: ', results);
+// });
 
 app.use(router.routes())
 const port = 3000
