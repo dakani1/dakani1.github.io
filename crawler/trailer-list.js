@@ -22,7 +22,6 @@ const fs = require('fs');
       await page.waitFor(5000);
       await moreClk(page);
     } catch (e) {
-      console.log(8888888)
       const data = await page.evaluate(() => {
         const $ = window.$;
         const items = $('.list .item')
