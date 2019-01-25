@@ -10,7 +10,7 @@ const fs = require('fs');
     }
   });
   const page = await browser.newPage();
-  const url = 'https://www.ravpower.com/support/download';
+  const url = 'https://www.taotronics.com/support/download';
   await page.goto(url, {
     waitUntil: 'domcontentloaded'
   });
@@ -45,7 +45,7 @@ const fs = require('fs');
         await getData(page);
       } else {
 
-        fs.writeFile('../fs/download.js', JSON.stringify(finalData),'utf-8',function(error){
+        fs.writeFile('../fs/download-tt.js', JSON.stringify(finalData),'utf-8',function(error){
           if(error){
             console.log(error);
             return false;
