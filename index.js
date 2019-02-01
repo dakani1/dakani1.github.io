@@ -28,7 +28,7 @@ app.use(async(ctx, next) => {
   ctx.set('ETag', '123456');
   ctx.set('Cache-Control', 'no-cache');
   next()
-})
+});
 
 const pool = mysql.createPool({
   connectionLimit : 10,

@@ -23,6 +23,9 @@
   },
   "dependencies": {
     "art-template": "^4.13.2",
-    "koa-art-template": "^1.1.1"
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "koa-art-template": "^1.1.1",
+    "koa-cors": "0.0.16"
   }
 }
